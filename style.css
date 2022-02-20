@@ -998,6 +998,7 @@
             }
             .preload #load_content {
                 font-size: 40px;
+                   margin-top:20px;
             }
             .load>div {
                 height: 50px;
